@@ -1,0 +1,4 @@
+# Configuración privada local. Solo se versiona la plantilla sin secretos.
+.env
+.env.*
+!.env.example
